@@ -2,8 +2,9 @@
 layout: cv
 title: Samuel M Williams's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Samuel M Williams
+I have a degree in mechanical engineering but work as a web and data analyst.
+I have a wide knowledge base and skill set.  I am a pretty useful guy.
  
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
