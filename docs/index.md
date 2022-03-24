@@ -8,9 +8,8 @@ I have a wide knowledge base and skill set.  I am a pretty useful guy.
  
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/samuelmwilliams86/">LinkedIn</a>
+| <a href="https://github.com/samuel-m-williams">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
