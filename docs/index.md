@@ -7,7 +7,7 @@ I have a degree in mechanical engineering but work as a web and data analyst.
 I have a wide knowledge base and skill set.  I am a pretty useful guy.
  
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="williamssa@byui.edu">williamssa@byui.edu</a>
 | <a href="https://www.linkedin.com/in/samuelmwilliams86/">LinkedIn</a>
 | <a href="https://github.com/samuel-m-williams">GitHub</a>
 </div>
